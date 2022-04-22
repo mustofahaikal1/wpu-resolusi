@@ -4,7 +4,6 @@ WPU RENCANA KONTEN
 + Bikin Dart
 - Web Programming
 - Javascript
-- Rencana Data Struktur
 - Belajar kotlin
 - Belajar React.js
 - Belajar Laravel
