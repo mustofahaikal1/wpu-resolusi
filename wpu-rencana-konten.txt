@@ -1,4 +1,6 @@
 WPU RENCANA KONTEN
 - Android
++ Bikin framework kotlin
++ Bikin Dart
 - Web Programming
 - Javascript
