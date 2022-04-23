@@ -5,3 +5,4 @@ WPU RENCANA KONTEN
 - Web Programming
 - Javascript
 - Rencana Data Struktur
+- Belajar Vue
