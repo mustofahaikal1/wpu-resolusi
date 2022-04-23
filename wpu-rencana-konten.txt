@@ -7,3 +7,4 @@ WPU RENCANA KONTEN
 - Belajar kotlin
 - Belajar React.js
 - Belajar Laravel
+- Belajar Angular
